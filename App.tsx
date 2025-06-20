@@ -11,6 +11,10 @@ const FILMS = [
   { id: 6, image: require('./assets/darkNight.png') },
   { id: 7, image: require('./assets/homemComH.png') },
   { id: 8, image: require('./assets/inception.png') },
+  { id: 9, image: require('./assets/RitaLee.png') },
+  { id: 10, image: require('./assets/UltimaGota.png') },
+  { id: 11, image: require('./assets/kpopHunters.png') },
+  { id: 12, image: require('./assets/untilDawn.png') },
 ];
 
 
